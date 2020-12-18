@@ -1,2 +1,1 @@
-
-This is a Cousera Capston Project about Battle of Neighborhoods where I have evaluated the three major cities downtown area for a business project. The Business project and the evaluation is attached.
+This is a Capston Project as part of IBM Data Science Professional Certificate Course. This project is about Battle of Neighborhoods where three major cities in the downtown area of Toronto area in Ontario Canada is evaluated for business office setup suitability. The Business project and the evaluation is attached.
